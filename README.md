@@ -18,6 +18,8 @@
     <li>Postman</li>
 </ul>
 
+<h2>Anotações de Mapeamento </h2>
+
 <strong>@Entity</strong>
 Usada para especificar que a classe anotada atualmente representa um tipo de entidade.
 
